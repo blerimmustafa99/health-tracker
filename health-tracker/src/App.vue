@@ -1,8 +1,5 @@
 <template>
-  <div class="app">
-    Health Tracker
     <router-view/>
-  </div>
 </template>
 
 <script lang="ts">
